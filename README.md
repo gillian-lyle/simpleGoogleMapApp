@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/glyle/googleMapApp/_apis/build/status/googleMapAppCI?branchName=master)](https://dev.azure.com/glyle/googleMapApp/_build/latest?definitionId=19&branchName=master)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
